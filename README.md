@@ -6,5 +6,6 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 
 
 ## 📌 Google Colab Notebooks
-- [Colab Notebook 1]()
-- [Colab Notebook 2]()
+- [L02 - Metrics for UQ, SP](https://github.com/supsi-dacd-isaac/eachDecisionMakingUncertainty/L2_Metrics_for_UQ_and_optmization.ipynb) [![Open In Colab]
+- [L03 - Robust Linear Program](https://github.com/supsi-dacd-isaac/eachDecisionMakingUncertainty/L3_Robust_Optimization_example_LP.ipynb) [![Open In Colab]
+ 
