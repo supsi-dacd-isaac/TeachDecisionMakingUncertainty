@@ -5,7 +5,7 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 
-##📌 Google Colab Notebooks
+## 📌 Google Colab Notebooks
 
 
 ### Uncertainty models and metrics for decision-making under uncertainty
