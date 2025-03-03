@@ -17,7 +17,7 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 
 
 - [L03.1 Deterministic vs Robust Production Problem](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L03/ex1_robust_production_problem.ipynb)
-- [L03.2 Robust LP: Equivalent robust counterparts](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L03/equivalence_of_robust_linear_counterparts.ipynb)
+- [L03.2 Robust LP: Equivalent robust counterparts](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L03/equivalence_of_robust_linear_counterparts.ipynb)    
 - [L03.2 Robust LP: Portfolio - Risk-adverse vs Risk-taking](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L03/ex2_portfolio_risk_trade_off.ipynb)
 
 ### Chance Constraints 
