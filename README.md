@@ -17,8 +17,8 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 ### Robust Optimization (single-stage)
 
 - [L03.1 Deterministic vs Robust Production Problem](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L3_Robust_Optimization_example_production_proble.ipynb)
-- [L03.2 Robust Linear Programming](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L3_Robust_Optimization_example_LP.ipynb)
-
+- [L03.2 Robust LP: Equivalent robust counterparts](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L3_Robust_Optimization_example_LP.ipynb)
+- [L03.2 Robust LP: Portfolio - Risk-adverse vs Risk-taking](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L3_Robust_Optimization_example_LP.ipynb)
 
 ### Chance Constraints 
 
@@ -27,7 +27,7 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 
 
 
-### Stochastic optimization  (single-stage)
+### Stochastic optimization
 - [L05 ] 
 
 
@@ -40,6 +40,6 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 - [L08] 
 
 
-### Myopic vs value function solutions  
+### Myopic vs value function solutions    (multi-stage and RL)
 - [L09] 
 
