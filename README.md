@@ -11,7 +11,7 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 ### Uncertainty models and metrics for decision-making under uncertainty
 
 - [L02.1 UQ modelling examples](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L2_UQ_structure_non_structurred_models.ipynb)
-- [L02-2 UQ metrics for RO and SP](https://github.com/supsi-dacd-isaac/eachDecisionMakingUncertainty/L2_Metrics_for_UQ_and_optmization.ipynb)
+- [L02.2 UQ metrics for RO and SP](https://github.com/supsi-dacd-isaac/eachDecisionMakingUncertainty/L2_Metrics_for_UQ_and_optmization.ipynb)
 
 
 ### Robust Optimization (single-stage)
