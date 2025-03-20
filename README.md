@@ -20,9 +20,8 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 - [L03.2 Robust LP: Ex2 A Portfolio Risk-adverse vs Risk-taking optimization](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L03/ex2_portfolio_risk_trade_off.ipynb)
 
 ### Chance Constraints 
-
-- [L04 ] 
-
+ 
+- [L04 Linear Inequality with bivariate Gaussian Uncertainty](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L04/CCP_feasibility_sets.ipynb)
 
 
 
