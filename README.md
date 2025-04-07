@@ -40,7 +40,7 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 
    
 ### Data-driven approaches
-- [L07]
+- [L07 Data-Driven Interval Predictive Model](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L07/IPM.ipynb)
 - [L08] 
 
 
