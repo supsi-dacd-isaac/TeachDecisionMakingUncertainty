@@ -1,4 +1,4 @@
-# Decision Making Under Uncertainty 
+# Decision-Making Under Uncertainty 
 Lectures and codes for the lecture series on Decision Making under Uncertainty -  M-D4304ZE - 
 
 
@@ -40,8 +40,8 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 
    
 ### Data-driven approaches
-- [L07 Data-Driven Interval Predictive Model](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L07/IPM.ipynb)
-- [L08] 
+- [L07 Data-Driven IPM (Interval Predictive Model) ](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L07/IPM.ipynb)
+- [L07 Samples-based approximation of robust optimization problems ](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L07/data_driven_robust_optimization.ipynb)
 
 
 ### Myopic vs value function solutions    (multi-stage and RL)
