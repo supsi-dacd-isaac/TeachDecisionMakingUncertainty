@@ -91,7 +91,7 @@ where $a=(x,y)$, the matrix $A_{in} = [-A_x, -A_y]$ and $b_{in} = -b_\xi \xi$.
 
 * The inequalty constraint matrix $ A_{\text{in}} $ combines the generation $ A_x$ and line $ A_y $ matrices, and is defined as follows:
 
-\[
+ 
 A_{\text{in}} =
 \begin{bmatrix}
 -1 & -1 & -1 & 0 & 0 & 0 \\    \tag{Network capacity constraints}
@@ -103,8 +103,7 @@ A_{\text{in}} =
 0 & 1 & 0 & 0 & -1 & 0 \\   % Line capacity 2  
 0 & 0 & 1 & 0 & 0 & -1      % Line capacity 3  
 \end{bmatrix}
-\]
-
+ 
 * The right-hand side vector$ b_{\text{in}} $ is given by:
 \[
 b_{\text{in}} =
