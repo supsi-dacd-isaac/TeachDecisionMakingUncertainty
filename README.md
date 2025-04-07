@@ -32,7 +32,7 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 
 
 ### Conditional Value at Risk
-- [L0x An example of CVaR estimation in Finance](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L05/CVaR_finance_example.ipynb)
+- [L05 An example of CVaR estimation in Finance](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L05/CVaR_finance_example.ipynb)
 - [L05 Monte Carlo probability estimation for quadratic inequality](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L05/MC_reliability_estimation_quadratic_fun.ipynb)
 
 ### Rare event estimation: First-order reliability methods
