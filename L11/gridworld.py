@@ -760,7 +760,7 @@ class GridWorld(MDP):
         else:
             ax.imshow(img, origin="lower")
             plt.title(title, fontsize="large")
-            plt.show()
+            
 
     """ Visualise the value function using a heat-map where green is high value and
     red is low value
