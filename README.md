@@ -47,3 +47,11 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 ### Myopic vs value function solutions    (multi-stage and RL)
 - [L09] 
 
+### Markov Chain  (multi-stage and RL)
+- [L10]
+
+### Value and policy iteration (multi-stage and RL)
+- [L11]
+
+### Deep Q learning (multi-stage and RL)
+- [L12] 
