@@ -19,13 +19,10 @@ Lectures and codes for the lecture series on Decision Making under Uncertainty -
 - [L03.2 Robust LP: Equivalent robust counterparts](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L03/equivalence_of_robust_linear_counterparts.ipynb)    
 - [L03.2 Robust LP: Ex2 A Portfolio Risk-adverse vs Risk-taking optimization](https://github.com/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L03/ex2_portfolio_risk_trade_off.ipynb)
 
-### Chance Constraints Part I
+### Chance Constraints Part I and Part II 
  
 - [L04 Linear Inequality with bivariate Gaussian Uncertainty](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L04/CCP_feasibility_sets.ipynb)
-
-### Chance Constraints Part II 
-- [L05 ]
- 
+  
 ### Introduction to Monte Carlo Simulation and Monte Carlo Integration 
 - [L05 Monte Carlo Simulation Tutorial, Coin Flip, Monty Hall Problem, Buffon's Needles, Gambling](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L05_MC_simulation_examples.ipynb)
 - [L05 Estimte quadratic CC for complex probability model and using MC Integration](https://colab.research.google.com/github/supsi-dacd-isaac/TeachDecisionMakingUncertainty/blob/main/L05/MC_reliability_estimation_quadratic_fun.ipynb)
